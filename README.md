@@ -1,3 +1,3 @@
-# timer
+# Timer
 
 A timer widget
